@@ -1,4 +1,4 @@
-# HireQuotinet Assignment
+# HireQuotinet Admin UI Assignment
 
 The challenge
 
